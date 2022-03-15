@@ -1,5 +1,5 @@
 # AnticontagionStrategies  
-This repository contains the underlying code and data used in the paper "Effect of Non-Pharmacological Interventions on COVID-19 in China: Based on Parallel Evolution and Control Method"  
+
 The model code is written in Python, and has been tested on Python3.8. No non-standard hardware is required to run the model code.
 
 In the code, we use a number of open source third-party packages, the names and versions of which are as follows:  
